@@ -1,0 +1,28 @@
+env
+Tienda02
+|_static
+|  |_font
+|  |_img
+|_templates
+|  |_layout
+|  |   |_base.html
+|  |   |_footer.html
+|  |   |_navbar.html
+|  |_tienda
+|    |_index.html
+|_tienda
+|  |_migrations
+|  |_init__.py
+|  |_admin.py
+|  |_apps.py
+|  |_models.py
+|  |_tests.py
+|  |_urls.py
+|  |_views.py
+|_Tienda02
+   |_pycache__
+   |_init__.py
+   |_asgi.py
+   |_settings.py
+   |_urls.py
+   |_wsgi.py
