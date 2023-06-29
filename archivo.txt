@@ -1,16 +1,16 @@
-env
-Tienda02
-|_static
+-env
+-Tienda02
+|__static
 |  |_font
 |  |_img
-|_templates
+|__templates
 |  |_layout
 |  |   |_base.html
 |  |   |_footer.html
 |  |   |_navbar.html
 |  |_tienda
 |    |_index.html
-|_tienda
+|__tienda
 |  |_migrations
 |  |_init__.py
 |  |_admin.py
@@ -19,7 +19,7 @@ Tienda02
 |  |_tests.py
 |  |_urls.py
 |  |_views.py
-|_Tienda02
+|__Tienda02
    |_pycache__
    |_init__.py
    |_asgi.py
